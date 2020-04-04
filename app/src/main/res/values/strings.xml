@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Traning Intuition</string>
+    <string name="random_num">%1$d</string>
+    <string name="main__app_title">Тренировка интуиции</string>
+    <string name="main__sub_title">Угадай, какую еду я загадал?</string>
+    <string name="main__random_init">\???</string>
+    <string name="main__text_timer">%1$d сек</string>
+    <string name="main__random_result_success">Верно!</string>
+    <string name="main__random_result_error">Не верно!</string>
+    <string name="main__results_count">Точность интуиции: %1$d%%</string>
+</resources>
